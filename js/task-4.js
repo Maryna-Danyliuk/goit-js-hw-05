@@ -44,6 +44,6 @@ return users = users
   }
 ];
 
-console.log(getTotalBalanceByGender(alUsers, "male")); // 12053
+console.log(getTotalBalanceByGender(alUsers, "male")); 
 
-console.log(getTotalBalanceByGender(alUsers, "female")); // 8863
+console.log(getTotalBalanceByGender(alUsers, "female")); 
